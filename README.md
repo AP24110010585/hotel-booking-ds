@@ -137,40 +137,6 @@ Check-in reversed. Room 103 is now available.
 | Reg No | AP24110010585 |
 | Section | CSE-AA |
 | Subject | Data Structures & Algorithms |
-
----
-
-## 📝 How to Submit on GitHub
-
-1. **Create a new repository** on [github.com](https://github.com)  
-   - Name it: `hotel-booking-ds` (or any preferred name)  
-   - Set visibility to **Public**
-
-2. **Initialize and push** from your local machine:
-
-```bash
-# Navigate to your project folder
-cd hotel_booking
-
-# Initialize git
-git init
-
-# Add all files
-git add .
-
-# Commit
-git commit -m "Initial commit: Hotel Booking System using DS"
-
-# Link to your GitHub repo (replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/hotel-booking-ds.git
-
-# Push
-git branch -M main
-git push -u origin main
-```
-
-3. ✅ Your project is live on GitHub!
-
 ---
 
 ## 📚 References
